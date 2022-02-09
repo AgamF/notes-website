@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(to right, green, rgb(112, 240, 191));
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
